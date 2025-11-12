@@ -5,6 +5,7 @@ import HeroSection from "@/components/HeroSection";
 import FeaturesSection from "@/components/FeaturesSection";
 import ProgramSection from "@/components/ProgramSection";
 import BenefitsSection from "@/components/BenefitsSection";
+import FAQSection from "@/components/FAQSection";
 import CTASection from "@/components/CTASection";
 import Footer from "@/components/Footer";
 
@@ -16,6 +17,7 @@ export default function LandingPage() {
       <FeaturesSection />
       <ProgramSection />
       <BenefitsSection />
+      <FAQSection />
       <CTASection />
       <Footer />
     </div>
